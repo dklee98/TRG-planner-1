@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <h1 align="center">TRG-planner<br></h1>
   <a href="https://github.com/url-kaist/TRG-planner"><img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" /></a>
   <a href="https://github.com/url-kaist/TRG-planner"><img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" /></a>
